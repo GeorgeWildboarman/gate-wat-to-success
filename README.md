@@ -10,6 +10,7 @@ Here is My first repository.
 
 Repository on GitHub is cloned to local repository in Lenovo tablet.
 
+Repository on GitHub is cloned to local repository in ASUS smartphone.
 
 
 ## Conclusion
